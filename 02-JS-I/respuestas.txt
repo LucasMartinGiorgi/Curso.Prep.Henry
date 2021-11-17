@@ -1,0 +1,26 @@
+-Variables: es un pedaso de espacio recervado en donde se guardan datos que mas adelante podes utilizar, para crearlas se utiliza 
+la palabra recerbada "var" dejamos un espacio y despues el nombre que le queremos poner, ese nombre nos servira para poder llamarla mas adelante 
+Tambien hay otras dos palabras recerbadas para crear las Variables una es "let" que es casi igual a "var" la diferencia es que "var" es de ES5 y "let" de ES6
+y la otra es "Const" que a diferecia de las otras dos esta es inmutable
+
+
+-String: son una cadena de texto/caracteres que se colocan entre comillas dobles para ser identificadas
+
+-Funciones: las Funcones son un tipo particular de objeto que son invocables, cuando tenemos un conjunto de variables necesitamos de una
+funcion para poder hacer algo con ellas como por ejemplo, sumarlas o calcularlas
+Las funciones empiezan con la palabra "function" esto indica lo que se ejecute lo hara como tal, despues lo pondremos un nombre que 
+describa lo que hace la funcion, parentecis() y al final corchetes{} en donde estara el codigo
+
+-Argumentos: los argumentos son las variables que se le pasa a la funciones en los parentecis () pueden ser una como mucas
+estos mismos podemos podemos utilizarlos dentro de nuestra funcion "funtion name(argumento)"
+
+-Return: es una declaracion que devuelve solo lo que sucede dentro de una funcion, nada de lo que este por afuera le afecta
+
+-Declaraciones: son las instruciones que damos al programar
+
+- if: (si) nos ayda a tomar deciciones, es un condicioneal que nos permite realizar una cosa o la otra cosa
+evalua las opciones buscando  resultado positivo o negativos ejecuta el codigo, else if (si no si) pasa al siguiete opciones buscando el resultado
+else(si no) ultima busqueda del resultado 
+
+-Valores Booleanos: los valores Booleanos son un tipo de dato que se definen en JS. por "true" o "false" que nos perminten realizar operaciones
+para buscar dos opciones como positivo o negativo 
