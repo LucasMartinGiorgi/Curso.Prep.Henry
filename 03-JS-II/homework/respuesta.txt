@@ -1,0 +1,17 @@
+- Bucle For: su sintaxis se compone de la palablra recerbada "for" luego de parentecis "()" y finalmente corchetes "{}",
+dentro de los parentecis necesitamos 3 cosas 1)-Inicializacion: declaramos una variable, sobre ella se repetira el Bucle 
+2)-Condicion: la cantidad de vueltas que hara el bucle hasta dar "false"
+3)-Incrementacion: en este punto aumentamos el valor de la variable
+4)-Corchetes: dentro de los corchetes se ejecutara el codigo
+for(let i = 0; i = 10; i++){
+    //codigo
+}
+
+
+-Operadores logicos
+
+-&& (and): con este operador evaluaremos si ambas operaciones son verdaderas, si lo son devolvera "true" si no lo son devolvera "false"
+
+-|| (or): con este evaluaremos si una o ambas expreciones son "true" en ese caso devolvera "true" y si ambas son "false" devolvera "false"
+
+-! (not): con este operador vamos a conseguir que nos devuelva el valor opuesto si es "true" nos devuelve "false" y si es "false" devuelve "true"
