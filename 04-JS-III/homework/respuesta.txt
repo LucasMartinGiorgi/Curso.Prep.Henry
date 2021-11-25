@@ -1,0 +1,8 @@
+* Arrays: los Arrays/arreglos son un  conjunto de elementos que pueden ser de cualquier tipo
+const arreglo = [ 1, false, "Henry" [10, "Corrientes", true]]
+los elementos de un array se empeizan a contar desde 0 por ende en la pocicion 0 esta 1, en la 1 esta false. etc
+la forma en la que podemos acceder a esos elemetos es a trabes de la notacion de corchetes
+arreglo[2] nos devolvera "Henry"
+arreglo[3] nos devuelve el array 
+para acceder al algun elemento del array que esta dentro del array:
+arreglo[3][1] nos devuelve "Corrientes"

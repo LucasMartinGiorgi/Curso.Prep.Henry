@@ -1,0 +1,35 @@
+* Objetos: son una coleccion de clave-valor, que esto serian las Propiedades(calve) de un objeto por ejemplo "nombre" y su Valor por ejemplo "Lucas"
+estos valores puden ser cualquier tipo de dato, string, numero, boolena, funciones, array, Objetos
+const objeto ={
+    calve: valor,
+    calve: valor,
+    calve: valor
+}
+
+
+* Propiedades: las propiedades de un objeto son los diferentes nombres asociados a un valor que contiene dentro
+const objeto ={
+    calve: valor,
+    calve: valor,
+    calve: function (){ codigo}
+}
+
+* Métodos: asi son conocidas las funciones declaradas dentro de un objeto
+
+
+* Bucle `for…in`: este bucle nos permite recorrer el objeto, tiene una sintaxis ligeramente similaar al bucle for, comienza en los parentecis
+declaramos una variable, usamos la palabral clave "in" y el nombre del objeto, este termina cuando haya recorrido por completo el objeto y nos devuelve las claves
+for(let calve in objeto){
+    codigo
+}
+
+
+
+* Notación de puntos vs notación de corchetes: la notacion de puto y la notacion de corchete son formas de acceder y asignar valores a las claves del objeto
+Acceder
+bjeto.calve[valor]
+objeto.clave.valor
+
+Asignar
+bjeto.calve[valor] = "nuevoValror"
+objeto.clave.valor = "nuevoValror"
