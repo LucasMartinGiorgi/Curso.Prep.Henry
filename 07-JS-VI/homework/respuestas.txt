@@ -1,0 +1,3 @@
+* Funciones Callback:  es la capacidad de pasar una funcion como argumento de otra funcion
+estas funciones pueden llamrarse en cualquier momento
+convencionalmente `cb` como argumento para la variable que se usará de callback.

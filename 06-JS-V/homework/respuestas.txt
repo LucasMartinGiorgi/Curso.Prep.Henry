@@ -1,0 +1,8 @@
+* `prototype`: es un objeto que no sirve para crear métodos de una forma unica
+para que los objetos que vayamos creando no esten duplicando, triplicando, etc los métodos
+Cada clase cuenta con una propiedad _prototype_ que despues se puede establecer en métodos
+
+
+
+
+* _Constructors_ (de Clases): es una forma especial que tenemos para inicializar un objeto creado desde una clase
