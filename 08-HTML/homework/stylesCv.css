@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
